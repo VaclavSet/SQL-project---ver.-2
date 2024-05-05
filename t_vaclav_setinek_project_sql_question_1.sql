@@ -2,7 +2,7 @@
 SELECT *,
     ROUND((aiw_2010 + aiw_2011 + aiw_2012 + aiw_2013 + aiw_2014 + aiw_2015 + aiw_2016 + aiw_2017 + aiw_2018) / 9, 2) AS average_of_aiws
 FROM (
-	SELECT
+SELECT
     branch,
     ROUND(((AVG(CASE WHEN payroll_year = 2010 THEN wage END) - AVG(CASE WHEN payroll_year = 2009 THEN wage END)) / AVG(CASE WHEN payroll_year = 2009 THEN wage END)) * 100, 2) AS aiw_2010,
     ROUND(((AVG(CASE WHEN payroll_year = 2011 THEN wage END) - AVG(CASE WHEN payroll_year = 2010 THEN wage END)) / AVG(CASE WHEN payroll_year = 2010 THEN wage END)) * 100, 2) AS aiw_2011,
