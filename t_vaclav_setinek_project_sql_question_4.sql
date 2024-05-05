@@ -1,4 +1,4 @@
-SELECT 
+SELECT
     payroll_year AS year,
     ROUND(AVG(wage)) AS avg_wage,
     ROUND(AVG(price_food), 2) AS avg_food,
