@@ -41,7 +41,7 @@ Jako dodatečný materiál jsem měl připravit i tabulku s HDP, GINI koeficient
 
 ## **3. ODPOVĚDI NA VÝZKUMNÉ OTÁZKY**
 <br>**Otázka č.1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
-<br>Při meziročním porovnání, roky 2009 až 2018, lze říci, že mzdy rostou ve všech odvětvích. V roce 2013 ale je u většiny odvětví vidět pokles (při porovnání s rokem 2012). Pokud vezmeme průměr hodnot u porovnávaných let, nejlépe je na tom obor Ubytování, stravování a pohostinctví, průměr 5,15%. Nejnižší nárůst je v oboru Výroba a rozvod elektřiny, plynu, tepla a klimatizace, průměr za porovnávaná období je 1,87%.
+<br>Při meziročním porovnání, roky 2009 až 2018, lze říci, že mzdy rostou ve všech odvětvích. V roce 2013 ale je u většiny odvětví vidět pokles (při porovnání s rokem 2012). Pokud vezmeme průměr hodnot u porovnávaných let, nejlépe je na tom obor Ubytování, stravování a pohostinství, průměr 5,15%. Nejnižší nárůst je v oboru Výroba a rozvod elektřiny, plynu, tepla a klimatizace, průměr za porovnávaná období je 1,87%.
 
 <br>**Otázka č.2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
 <br>Když porovnáme roky 2009 a 2018, tak lze říci, že si lze koupit o cca 20% více u obou porovnávaných potravin (o 19% u Chleba konzumního kmínového a 21% u Mléka polotučného pasterovaného).
