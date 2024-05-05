@@ -2,7 +2,7 @@
 SELECT *,
     ROUND((aip_2010 + aip_2011 + aip_2012 + aip_2013 + aip_2014 + aip_2015 + aip_2016 + aip_2017 + aip_2018) / 9, 2) AS average_of_aips
 FROM (
-	SELECT
+SELECT
     foodstuff,
     ROUND(((AVG(CASE WHEN payroll_year = 2010 THEN price_food END) - AVG(CASE WHEN payroll_year = 2009 THEN price_food END)) / AVG(CASE WHEN payroll_year = 2009 THEN price_food END)) * 100, 2) AS aip_2010,
     ROUND(((AVG(CASE WHEN payroll_year = 2011 THEN price_food END) - AVG(CASE WHEN payroll_year = 2010 THEN price_food END)) / AVG(CASE WHEN payroll_year = 2010 THEN price_food END)) * 100, 2) AS aip_2011,
