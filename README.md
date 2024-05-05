@@ -1,7 +1,6 @@
-# SQL-project---ver.-2
 DISCORD nick Václav S.
 
-# SQL-project
+# SQL-project, ver. 2
 ## **1. ZADÁNÍ PROJEKTU**
 
 **Úvod do projektu**
